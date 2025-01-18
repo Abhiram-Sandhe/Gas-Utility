@@ -15,9 +15,8 @@ Backend: Django (Python Framework) Frontend: HTML, CSS Database: SQLite (default
 
 2.Run the server: python manage.py runserver : Open your browser and navigate to http://127.0.0.1:8000/admin/ to login.
 
-3. username - test
-   password  - 123
-
+3. username - test password  - 123
+   
 Screenshots
 
 Add Service Request
