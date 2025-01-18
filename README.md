@@ -17,3 +17,8 @@ Backend: Django (Python Framework) Frontend: HTML, CSS Database: SQLite (default
 
 3. username - test
    password  - 123
+
+Screenshots
+
+Add Service Request
+![Image](https://github.com/user-attachments/assets/1badfd97-331f-4dc8-84c2-2e6ba67de837)
